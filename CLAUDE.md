@@ -27,4 +27,4 @@ Static HTML/CSS portfolio website deployed to AWS using S3 and CloudFront, provi
 
 ## Safety
 
-Never put secrets in this file. No API keys, passwords, or AWS credentials.
+Never put secrets in this file. No API keys, passwords, or AWS credentials./bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
